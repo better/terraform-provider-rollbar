@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/davidji99/terraform-provider-rollbar/rollbar"
+	"github.com/better/terraform-provider-rollbar/rollbar"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
 )
 
